@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "beta",
+    "name": "Beta",
     "slug": "beta",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "beta",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.oello.beta"
     },
     "android": {
       "adaptiveIcon": {
